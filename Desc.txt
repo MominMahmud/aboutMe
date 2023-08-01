@@ -1,0 +1,17 @@
+Creating this file to implement github, ingore this and description fo the pporject and all the features to be added in fututre and now
+
+About.me Project(https://about.me/mominmahmud/edit/appearance)
+-Create frontend
+  ---> add image upload option->(Ongoing)
++ add to navbar+ 
+enter name+
+description+
+spotlight button+
+change colors + 
+layouts
+-Create Backend
+ ---> Create User table(fname, lastname, bio, spotlightbutton)
+----> Create Cruds and add functionality
+--->Save files on cloud maybe???? OR backend????
+
+--->Maybe add Login/SignUp options
